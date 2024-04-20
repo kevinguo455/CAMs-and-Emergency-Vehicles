@@ -6,3 +6,5 @@
 
 # Datasets
 datasets/
+data/
+data_imagenette/
