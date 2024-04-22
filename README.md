@@ -9,5 +9,5 @@ Was unable to install `ChainerCV` on Python 3.8.
 
 Libraries installed:
 ```
-pip install numpy scipy pandas matplotlib torch torchvision tqdm ipywidgets scikit-image scikit-learn transformers keras diffusers accelerate opencv-python cython kaggle
+pip install numpy scipy pandas matplotlib torch torchvision tqdm ipywidgets scikit-image scikit-learn transformers keras diffusers accelerate opencv-python-headless cython kaggle
 ```
