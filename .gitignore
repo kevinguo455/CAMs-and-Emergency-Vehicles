@@ -5,6 +5,6 @@
 .vscode/
 
 # Datasets
-datasets/
+datasets/imagenette
 
 __pycache__/
