@@ -6,5 +6,5 @@
 
 # Datasets
 datasets/
-data/
-data_imagenette/
+
+__pycache__/
