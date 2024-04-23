@@ -6,5 +6,6 @@
 
 # Datasets
 datasets/imagenette
+datasets/FashionMNIST
 
 __pycache__/
