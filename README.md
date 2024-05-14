@@ -1,13 +1,10 @@
-Using Python 3.8.
+# Class Activation Maps and Emergency Vehicles
 
-Hopefully this installs the right packages:
+See `cam.pdf` for the body of the report.
+
+## Environment
+
+This project used Python 3.8. To install the necessary packages, run:
 ```
 pip install -r requirements.txt
-```
-
-Was unable to install `ChainerCV` on Python 3.8.
-
-Libraries installed:
-```
-pip install numpy scipy pandas matplotlib torch torchvision tqdm ipywidgets scikit-image scikit-learn transformers tensorflow keras diffusers accelerate opencv-python-headless cython kaggle
 ```
